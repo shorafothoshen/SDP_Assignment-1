@@ -1,0 +1,316 @@
+.Nav_bar_img{
+    padding-left: 100px;
+    width: 23vw;
+    height: 6vh;
+}
+.Nav_bar{
+    background-color: #1a197b;
+    width: 100%;
+}
+.Search_bar{
+    padding-left: 85px;
+}
+.Search_bar1{
+    padding: 15px;
+    width: 400px;
+}
+.Menu_bar{
+    color: white;
+    padding-right: 200px;
+    font-size: 20px;
+    
+}
+.Cerousel_firstImg{
+    background-image: url("FashionQuest-main/resources/v904-nunny-012\ 1.png");
+    width: 100%;
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 190px;
+    padding-right: 170px;
+}
+.Cerousel_SecondImg{
+    background-image: url("FashionQuest-main/resources/iPhone12ProReflection3x2.png");
+    width: 100%;
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 110px;
+    padding-right: 210px;
+}
+
+.Cerousel_img{
+   margin-top: 400px;
+    width: 300px;
+}
+.font_title{
+    font-size: 50px;
+    color:#a189ba;
+}
+.Cerousel_pera{
+    font-weight: 600;
+    font-size: large;
+}
+.Font_style{
+    font-weight: 100px;
+    font-size: 100px;
+}
+.Font_style2{
+    font-weight: bold;
+    font-size: 110px;
+}
+.Cerousel_button{
+    background-color: #1a197b;
+    color: white;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.main_top{
+    display: flex;
+}
+.iPad_Apple{
+    width: 50%;
+    height: 80%;
+    flex-direction: column;
+}
+.iPad_9{
+    display: flex;
+    height: 50%;
+}
+.iPad_9_img img{
+    width: 450px;
+    margin-top: 36px;
+    margin-left: -46px;
+    padding: 50px;
+}
+.iPad_9_text{
+    margin-top: 130px;
+}
+.Main_left_bg_img{
+    background-color: #adc2d7;
+    background-image:url("FashionQuest-main/resources/hero__gnfk5g59t0qe_xlarge_2x\ 1.png");
+    background-repeat: no-repeat;
+    height: 70%;
+    margin-top: -50px;
+    padding-top: 106px;
+    justify-content: center;
+    align-items: center;
+}
+.Apple_text{
+    /* border: 2px solid #1a197b; */
+    margin-left: 500px;
+    margin-top: -24px;
+}
+.Macbook{
+    background-color: #ececed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-left:70px;
+    padding-bottom: 172px;
+    width: 50%;
+    height: 110%;
+}
+.Macbook_img img{
+    width: 300px;
+    margin-left: -40px;
+}
+.macbook_img_sm{
+    display: none;
+}
+.macbook_title{
+    font-weight:100;
+    font-size: 50px;
+}
+.Macbook_button{
+    background-color: #26448f;
+    color: white;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.Apple_title{
+    font-weight: lighter;
+}
+.Apple_pera{
+    color: white;
+}
+.main_center{
+    background-color: #fbfafb;
+    padding: 40px;
+    margin-top: -17px;
+}
+.Browse_title{
+    font-size: 30px;
+    font-weight: lighter;
+}
+.Browse{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+.Greater_less_then{
+    display: flex;
+    gap: 20px;
+}
+.Browse_logo_deign{
+    display: flex;
+    gap: 75px;
+    justify-content: center;
+}
+.Browse_logo{
+    background-color: #ececed;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 140px;
+    height: 110px;
+}
+.Browse_icon{
+    width: 53px;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+}
+.Heading_container{
+    width: 80%;
+    text-align: left;
+}
+.main_buttom_title{
+    display: flex;
+    gap: 30px;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.New_arrival{
+    font-weight: bolder;
+}
+.Grand_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.card_Container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+    width: 80%;
+    margin:auto 0;
+}
+.card{
+    background-color: #f7f7f6;
+}
+.Card_Container_img{
+    width: 140px;
+    height: 150px;
+}
+.Card_icon{
+    font-size: 35px;
+}
+.Card_icon_container{
+    text-align: right;
+    padding-right: 23px;
+    padding-top: 30px;
+}
+.Card_Container_main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    border: none;
+}
+.Footer_Top{
+    margin-top: 40px;
+    background-color: #948ad5;
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Footer_top_left_img{
+    width: 550px;
+    margin-right: 300px;
+    margin-left: -200px;
+}
+.Footer_top_left_img2{
+    display: none;
+}
+.Footer_Top_center_text{
+    text-align: center;
+    margin-left: -90px;
+    margin-right: 80px;
+    padding: 50px 50px;
+}
+.Font_size{
+    font-size: 80px;
+    color: #25177b;
+    font-weight: 900;
+}
+.font_color{
+    color: white;
+}
+.Footer_top_right_img{
+    width: 400px;
+}
+.Footer_top_right_img2{
+    display: none;
+}
+.Footer_buttom{
+    background-color: #0e061a;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 60vh
+}
+.Footer_buttom_main{
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+    gap: 4rem;
+}
+.footer_logo_img{
+    width: 300px;
+    margin-top: -10px;
+}
+.Footer_icon{
+    font-size: 23px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}
+.Footer_icon2{
+    display: none;
+}
+.Footer_text_main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 4rem;
+    color: #767687;
+}
+.Footer_text1 h1{
+    font-size: 25px;
+}
+.Footer_text2 h1{
+    font-size: 25px;
+}
